@@ -1,0 +1,11 @@
+file_format: "1"
+id: mxBlok
+name: mxBlok
+type: shield
+url: https://github.com/manofthebees/mxBlok
+requires: [nice_nano_v2]
+features:
+  -keys
+siblings:
+  - mxBlok_left
+  - mxBlok_right
